@@ -101,7 +101,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [160, 452.0]
+    coordinate: [24, 432.0]
     rotation: 0
     state: enabled
 - name: analog_sig_source_x_1_0
@@ -124,7 +124,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [120, 308.0]
+    coordinate: [24, 288.0]
     rotation: 0
     state: enabled
 - name: audio_sink_0
@@ -141,7 +141,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1432, 436.0]
+    coordinate: [1144, 424.0]
     rotation: 0
     state: enabled
 - name: band_pass_filter_0
@@ -184,7 +184,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [424, 320.0]
+    coordinate: [280, 304.0]
     rotation: 0
     state: enabled
 - name: blocks_throttle2_1_0
@@ -205,7 +205,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1152, 340.0]
+    coordinate: [864, 320.0]
     rotation: 0
     state: enabled
 - name: blocks_wavfile_source_0
@@ -223,7 +223,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [104, 212.0]
+    coordinate: [24, 200.0]
     rotation: 0
     state: enabled
 - name: low_pass_filter_1
@@ -247,7 +247,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [648, 308.0]
+    coordinate: [504, 288.0]
     rotation: 0
     state: enabled
 - name: qtgui_freq_sink_x_0
@@ -328,7 +328,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [600, 180.0]
+    coordinate: [400, 168.0]
     rotation: 0
     state: enabled
 - name: qtgui_freq_sink_x_2
@@ -409,7 +409,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1432, 332.0]
+    coordinate: [1144, 312.0]
     rotation: 0
     state: enabled
 - name: qtgui_time_sink_x_1
@@ -506,7 +506,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1432, 220.0]
+    coordinate: [1144, 200.0]
     rotation: 0
     state: enabled
 - name: rational_resampler_xxx_0
@@ -526,7 +526,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [912, 228.0]
+    coordinate: [688, 192.0]
     rotation: 0
     state: disabled
 

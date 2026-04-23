@@ -42,7 +42,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [200, 12]
+    coordinate: [160, 8.0]
     rotation: 0
     state: enabled
 - name: analog_sig_source_x_0
@@ -65,7 +65,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [64, 236.0]
+    coordinate: [64, 240.0]
     rotation: 0
     state: enabled
 - name: audio_source_0
